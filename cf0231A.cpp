@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    int tc, ans = 0;
-    cin >> tc;
-    for (int t=0; t<tc; t++) {
+    int t, ans = 0;
+    cin >> t;
+    for (int tc=0; tc<t; tc++) {
         int a, b, c;
         cin >> a >> b >> c;
         ans += (a + b + c >= 2);
