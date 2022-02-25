@@ -19,6 +19,5 @@ int main() {
         }
         cout << (valid ? "YES" : "NO") << endl;
     }
-
     return 0;
 }
