@@ -1,6 +1,7 @@
 # 👨🏻‍💻 Codeforces — Competitive Programming
 
-I'm new to codeforces. 👶🏻  
+I'm new to codeforces 👶🏻  
 My handle: **`jamestang_8`**  
 Language: C++  
 Compiler: GNU G++17 7.3.0  
+Indentation style: K&R (1TBS variant)  
